@@ -1,0 +1,3 @@
+grant codeBase "file:////home/paul/NetBeansProjects/ClienteRPC/bin/-" {
+   permission java.util.PropertyPermission "*", "read,write";
+ };
